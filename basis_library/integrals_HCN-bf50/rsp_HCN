@@ -1,0 +1,5 @@
+# format rsp grids,  connectivity informaiton
+#1.005 2.011 3.519 5.026  1 2 dist
+#1.092 2.184 3.823 5.461  1 3 dist
+1.005 3.011  1 2 dist
+0.892 3.284  1 3 dist

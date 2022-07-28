@@ -1,0 +1,7 @@
+ndof = 2
+nint2e = 334262
+nrprime = 50
+nrprimn = 38 38
+nrensp = 4
+rmin = 0.944863 0.954863
+dr = 0.1289261 0.1289261
