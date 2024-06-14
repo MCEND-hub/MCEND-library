@@ -27,6 +27,8 @@ At the moment, the basis set library contains the following basis sets. The numb
 | 6 | cc-pVDZ | 31 | integrals_H2-g6bf31 |
 | 6 | aug-cc-pVDZ | 43 | integrals_H2-g6bf43 |
 
+**A further basis set, integrals_H2-g6bf107, was excluded because of the size.**
+
 ### HeH<sup>+</sup> 
 
 ### He~2~
