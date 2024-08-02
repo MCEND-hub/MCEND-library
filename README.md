@@ -30,6 +30,11 @@ At the moment, the basis set library contains the following basis sets. The numb
 **A further basis set, integrals_H2-g6bf107, was excluded because of the size.**
 
 ### HeH<sup>+</sup> 
+| -- | -- | -- | -- |
+| 4 | cc-pVDZ | 16 | integrals_HeH+-bf16 |
+| 4 | aug-cc-pVDZ | 24 | integrals_HeH+-bf24 |
+| 4 | cc-pVTZ | 44 | integrals_HeH+-bf24 |
+| 4 | aug-cc-pVTZ | 60 | integrals_HeH+-bf60 |
 
 ### He~2~
 
