@@ -29,7 +29,9 @@ At the moment, the basis set library contains the following basis sets. The numb
 
 **A further basis set, integrals_H2-g6bf107, was excluded because of the size.**
 
-### HeH<sup>+</sup> 
+### HeH<sup>+</sup>~
+
+| Number of nuclear grid points | Originating electronic basis | Remaining electronic basis functions | Name of the basis set |
 | -- | -- | -- | -- |
 | 4 | cc-pVDZ | 16 | integrals_HeH+-bf16 |
 | 4 | aug-cc-pVDZ | 24 | integrals_HeH+-bf24 |
